@@ -1,0 +1,14 @@
+{
+  "name": "cypress-automation-testing",
+  "version": "1.0.0",
+  "description": "RCV Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Sohaib",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
