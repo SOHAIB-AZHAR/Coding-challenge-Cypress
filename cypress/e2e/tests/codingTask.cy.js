@@ -8,7 +8,7 @@ function getRandomName() {
   return `User_${Math.floor(1000 + Math.random() * 9000)}_Name`
 }
 
-describe('Demoblaze App Tests - POM', () => {
+describe('Demoblaze App Tests', () => {
 
   const randomName = getRandomName()
   const randomPassword = `Test@${Math.floor(Math.random() * 10000)}`
